@@ -25,6 +25,7 @@ Demonstrate basic ability to refactor html code.
 <a href= # ><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
 <a href= #><img src="https://img.shields.io/badge/HTML5-E34F26?tyle=flat&logo=html5&logoColor=white"> </a>
 
+
 Given an index.html page that had some broken links and needed to have html semantics added for accessability.
 
 
