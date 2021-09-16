@@ -28,4 +28,5 @@ Demonstrate basic ability to refactor html code.
 
 Given an index.html page that had some broken links and needed to have html semantics added for accessability.
 
+##Homework called code refractor, because original course materials called the exercise ***Refractoring, not Refactoring! ***
 
