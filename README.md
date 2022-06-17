@@ -56,12 +56,12 @@ Unit 02 objectives:
 
 ## Table of Content
 
-1. [Description](##description)
-2. [Installation](###instalation)
-3. [Usage](###usage)
-4. [Contributing](###contributing)
-5. [Technologies](###technologies)
-6. [Questions:(###qusetions)]
+1. [Description](#description)
+2. [Installation](#instalation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [Technologies](#technologies)
+
 
 ## Description
 
@@ -148,7 +148,7 @@ From Course directions:
   </ul>
 </p>
 
-### Licence: undefined
+### Licence: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Installation
 
