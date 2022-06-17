@@ -154,6 +154,10 @@ From Course directions:
 
 ### Usage
 
+Free to anyone to use as a reference, or fork. Please do not alter this repo.
+
+License: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ### Technologies
 
 ### Images
